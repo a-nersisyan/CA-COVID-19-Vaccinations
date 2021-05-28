@@ -1,8 +1,8 @@
 # CA-COVID-19-Vaccinations
 
 ### Research Questions
-Casual Inference - Does a higher median household county income level cause a higher proportion of COVID-19 vaccination?
-GLM/Non-Parametric - Do demographics (age, race/ethnicity, and gender) predict the rate of receiving a COVID-19 vaccine?
+- Casual Inference - Does a higher median household county income level cause a higher proportion of COVID-19 vaccination?
+- GLM/Non-Parametric - Do demographics (age, race/ethnicity, and gender) predict the rate of receiving a COVID-19 vaccine?
 ___
 ### Folder Hierarchy
 - COVID-19: contains datasets from the COVID-19 Vaccine Progress Dashboard Data by the Calfornia Department of Public Health
